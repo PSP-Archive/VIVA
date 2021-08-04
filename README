@@ -1,0 +1,46 @@
+VIVA Is a VSH Alternative
+
+Developed by me (Auraomega) released under another alias (MrE).
+
+
+
+
+
+:.:.:Info:.:.:
+
+Can run from the flash as a replacement/alternative to the XMB, whilst still retaining the ability to load the XMB.
+
+VIVA's main bulk of code, plus the ISO loading plugin, PBP loading plugin and kernel functions are included, as is the flasher, however the patch files remain closed source. The patch files can be used again and edited in a hex editor to load any file location.
+
+The flasher should give you enough information on how to set VIVA up in the flash, if you can't understand enough of the code to work out what is going on I'd take that as a sign you're not at the ability required to take on a project like this yet.
+
+Most of the libraries needed are included, however theres always bound to be some that I haven't included. Google is your friend in this case.
+
+I can't give you a list of bugs as I can't remember, I do however remember that I never got around to adding padding to images, thus all images must be to a power of 2, I.E. 128 x 128, 64 x 16, etc.
+
+Finally, this is my last foreseeable public release for the PSP, although I am still developing actively for the PC. All my new applications are available on Sourceforge https://sourceforge.net/users/auraomega/
+
+
+
+
+
+:.:.:License:.:.:
+
+This is released under the Creative Commons Attribution-Share Alike 3.0 License.
+See LICENSE for more information.
+
+
+
+
+
+:.:.:Atttribution:.:.:
+
+With accordance to the license, the following must be adhered to:
+
+If you use the code in any way, shape or form you must attribute it in the following way:
+
+Place a notice in the readme stating it "uses code developed by Auraomega"
+
+If you alter or copy any part of the code you must release it under the same licence.
+
+See http://creativecommons.org/licenses/by-sa/3.0/ if you need more information.

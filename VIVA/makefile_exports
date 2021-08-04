@@ -1,0 +1,3 @@
+all:
+	cd VIVA_Modules/ISOLoader
+	psp-build-exports -s exports.exp
